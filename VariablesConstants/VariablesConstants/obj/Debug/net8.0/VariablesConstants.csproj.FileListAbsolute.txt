@@ -1,0 +1,15 @@
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.AssemblyInfoInputs.cache
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.AssemblyInfo.cs
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.csproj.CoreCompileInputs.cache
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.sourcelink.json
+E:\Learn .Net\VariablesConstants\VariablesConstants\bin\Debug\net8.0\VariablesConstants.exe
+E:\Learn .Net\VariablesConstants\VariablesConstants\bin\Debug\net8.0\VariablesConstants.deps.json
+E:\Learn .Net\VariablesConstants\VariablesConstants\bin\Debug\net8.0\VariablesConstants.runtimeconfig.json
+E:\Learn .Net\VariablesConstants\VariablesConstants\bin\Debug\net8.0\VariablesConstants.dll
+E:\Learn .Net\VariablesConstants\VariablesConstants\bin\Debug\net8.0\VariablesConstants.pdb
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.dll
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\refint\VariablesConstants.dll
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.pdb
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\VariablesConstants.genruntimeconfig.cache
+E:\Learn .Net\VariablesConstants\VariablesConstants\obj\Debug\net8.0\ref\VariablesConstants.dll
