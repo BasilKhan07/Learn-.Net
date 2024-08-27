@@ -1,0 +1,14 @@
+E:\Learn .Net\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+E:\Learn .Net\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+E:\Learn .Net\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+E:\Learn .Net\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+E:\Learn .Net\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+E:\Learn .Net\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
