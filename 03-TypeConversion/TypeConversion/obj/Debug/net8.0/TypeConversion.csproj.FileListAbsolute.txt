@@ -1,0 +1,15 @@
+E:\Learn .Net\03-TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+E:\Learn .Net\03-TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+E:\Learn .Net\03-TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+E:\Learn .Net\03-TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+E:\Learn .Net\03-TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.sourcelink.json
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+E:\Learn .Net\03-TypeConversion\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll
