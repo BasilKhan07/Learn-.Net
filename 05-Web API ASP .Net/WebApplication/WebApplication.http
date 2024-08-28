@@ -1,0 +1,10 @@
+@WebApplication_HostAddress = https://localhost:7151
+
+GET {{WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{WebApplication_HostAddress}}/pizza/
+Accept: application/json
+
+###
